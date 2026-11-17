@@ -80,7 +80,7 @@ Must: FR-001–FR-008 и NFR-001, NFR-002, NFR-004, NFR-006, NFR-007. Should: и
 
 ![Мокап главного окна и формы](../images/ui-mockup.png)
 
-[Редактируемый SVG](../images/ui-mockup.svg). [Состояния интерфейса](../images/ui-states.png).
+[Исходник Excalidraw](../images/ui-mockup.excalidraw). [Редактируемый SVG](../images/ui-mockup.svg). [Состояния интерфейса](../images/ui-states.png).
 
 #### 3.1.2 Аппаратные интерфейсы
 

@@ -20,6 +20,7 @@ java -cp out Main
 - [Спецификация требований SRS](srs/srs-template.md).
 - [Модель SysMLv2](models/fatloss.sysml).
 - [Мокап](images/ui-mockup.png) и [редактируемый SVG](images/ui-mockup.svg).
+- [Исходник мокапа Excalidraw](images/ui-mockup.excalidraw) и [исходник состояний](images/ui-states.excalidraw).
 - [Состояния интерфейса](images/ui-states.png).
 - [Графическое представление модели](images/sysml-requirements.png).
 - Реальные снимки: [начальное окно](images/app-start.png), [форма](images/app-input.png), [результат](images/app-result.png).
